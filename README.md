@@ -1,4 +1,4 @@
-How to Use Libcurl for Web Scraping
+# How to Use Libcurl for Web Scraping
 
 ![](https://assets.capsolver.com/prod/posts/libcurl-cpp/DxvRe7ZLlWJD-b3ed3a8eae8b2f4b06b207953eb90196.png)
 
